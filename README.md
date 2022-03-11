@@ -1,6 +1,6 @@
 # Bootleg-Covers
 
-This repo will be the home of every cover I have made for a concert tape. Artists listed below:
+This repo will be the home of every piece of cover art I have made for a concert tape. Artists listed below:
 
 Bruce Springsteen<br/>
 Queen<br/>
