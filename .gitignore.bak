@@ -9,4 +9,6 @@ _Various_Projects/
 Dead and Company/
 Jerry Garcia Band/
 desktop.ini
-.git*
+.gitattributes
+.gitignore
+.gitignore.bak
