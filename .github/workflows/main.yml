@@ -1,0 +1,15 @@
+# This is a basic workflow to help you get started with Actions
+
+name: Create Archive
+on: [push]
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@master
+    - name: 2012covers
+      uses: lilbud/Bootleg-Covers@master/Bruce_Springsteen/Covers/2012
+      with:
+        type: 'zip'
+        filename: '2012.zip'
+        exclusions: '*.git* /*node_modules/* .editorconfig'
