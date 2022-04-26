@@ -8,7 +8,7 @@ jobs:
     steps:
     - uses: actions/checkout@master
     - name: 2012covers
-      uses: lilbud/Bootleg-Covers@master/Bruce_Springsteen/Covers/2012
+      uses: lilbud/Bootleg-Covers@main/Bruce_Springsteen/Covers/2012
       with:
         type: 'zip'
         filename: '2012.zip'
