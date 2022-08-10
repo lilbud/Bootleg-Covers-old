@@ -1,0 +1,7 @@
+Dicks Picks Project
+
+In this folder is generated covers for almost every Grateful Dead show from 1966-1995. The covers were generated based on information from Relisten, this info was stored in .csv files. After which these files were loaded into Adobe Illustrator, which has a feature for bulk generating images based on a datafile. These covers are based on the original Dick's Picks covers (used from Volume 1 to 6). Which in turn were based on the packaging of old reel-to-reel tapes.
+
+The covers were based on that but modified slightly. I moved the "Grateful Dead" text up to the box that used to say "Dick's Picks". Where the volume number was listed is now the year. The black box at the bottom was shunk, and now contains the full information on where the show happened (including Venue, City, and State. As well as the full date.)
+
+The original cover and concept is property of the Grateful Dead/Rhino Records. All properities mentioned belong to their respective owners.
