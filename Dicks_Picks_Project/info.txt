@@ -4,4 +4,6 @@ In this folder is generated covers for almost every Grateful Dead show from 1966
 
 The covers were based on that but modified slightly. I moved the "Grateful Dead" text up to the box that used to say "Dick's Picks". Where the volume number was listed is now the year. The black box at the bottom was shunk, and now contains the full information on where the show happened (including Venue, City, and State. As well as the full date.)
 
-The original cover and concept is property of the Grateful Dead/Rhino Records. All properities mentioned belong to their respective owners.
+The original cover and concept is property of the Grateful Dead/Rhino Records. All properties mentioned belong to their respective owners.
+
+UPDATE 9/29/2022 - I redid all the covers with a better dataset. The first time I used data from Relisten, which turned out to have a ton of incorrect information. Ranging from incorrect venue info, spelling errors, or a combination of both. This time I used data from JerryBase, which is much more accurate and correct. The only changes I made were abbreviating any venues that didn't fit on the cover, usually just abbreviating words or university names. 
