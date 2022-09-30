@@ -13,3 +13,7 @@ desktop.ini
 .gitattributes
 .gitignore
 .gitignore.bak
+*/Covers-original
+*.bat
+*.7z
+*.zip
