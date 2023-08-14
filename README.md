@@ -1,5 +1,7 @@
 # Bootleg-Covers
 
+# Note: repo is no longer in use as of 2023-08-14, git refuses to push changes anymore and github desktop fails everytime
+
 This repo will be the home of every piece of cover art I have made for a concert tape. Artists listed below:
 
 Bruce Springsteen<br/>
